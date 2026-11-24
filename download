@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+# banco SQLite gerado automaticamente ao executar a API
+eventos.db
